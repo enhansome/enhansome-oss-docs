@@ -1,0 +1,628 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Firecracker Docs",
+          "description": "Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T15:38:37Z",
+            "owner": "firecracker-microvm",
+            "repo": "firecracker",
+            "stars": 36046
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSearch Docs",
+          "description": "The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins. Edit on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-08-11T17:49:27Z",
+            "owner": "opensearch-project",
+            "repo": "documentation-website",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "Amazon Open Source Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Apache SkyWalking",
+          "description": "Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures. Edit on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T02:00:34Z",
+            "owner": "apache",
+            "repo": "skywalking",
+            "stars": 24921
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache APISIX",
+          "description": "Apache APISIX is a dynamic, real-time, high-performance API gateway, and it provides rich traffic management features such as load balancing, dynamic upstream, canary release, circuit breaking, authentication, observability, and more. Edit on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-14T03:43:19Z",
+            "owner": "apache",
+            "repo": "apisix",
+            "stars": 16989
+          }
+        }
+      ],
+      "title": "Apache Software Foundation Open Source Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Checkov",
+          "description": "Checkov is a static code analysis tool for infrastructure-as-code. Edit on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T17:30:38Z",
+            "owner": "bridgecrewio",
+            "repo": "checkov",
+            "stars": 8936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yor",
+          "description": "Yor is an open-source tool that helps add informative and consistent tags across infrastructure-as-code frameworks such as Terraform, CloudFormation, and Serverless. Edit on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T04:59:09Z",
+            "owner": "bridgecrewio",
+            "repo": "yor",
+            "stars": 932
+          }
+        }
+      ],
+      "title": "Bridgecrew Open Source Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Solana",
+          "description": "An open source project implementing a new, high-performance, permissionless blockchain. Edit On GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-01-22T19:41:54Z",
+            "owner": "solana-labs",
+            "repo": "solana",
+            "stars": 14944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cosmos",
+          "description": "⛓️ A Framework for Building High Value Public Blockchains ✨. Edit On GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-14T02:47:29Z",
+            "owner": "cosmos",
+            "repo": "cosmos-sdk",
+            "stars": 7045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Binance API",
+          "description": "Official Documentation for the Binance APIs and Streams Resources. Edit On GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-14T01:36:44Z",
+            "owner": "binance",
+            "repo": "binance-spot-api-docs",
+            "stars": 4848
+          }
+        }
+      ],
+      "title": "Cryptocurrencies Open Source Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Compose",
+          "description": "Define and run multi-container applications with Docker.Edit on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T14:35:50Z",
+            "owner": "docker",
+            "repo": "compose",
+            "stars": 38087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Build Kit",
+          "description": "A set of tooling for building and packaging software using containers. Edit on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:23:08Z",
+            "owner": "moby",
+            "repo": "buildkit",
+            "stars": 10190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker cli",
+          "description": "The cli used in the Docker CE and Docker EE products. Edit on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T20:42:46Z",
+            "owner": "docker",
+            "repo": "cli",
+            "stars": 6002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker Docs",
+          "description": "Docker is an open platform for developing, shipping, and running applications. Edit on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-08-13T18:45:49Z",
+            "owner": "docker",
+            "repo": "docs",
+            "stars": 4633
+          }
+        }
+      ],
+      "title": "Docker Open Source Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RocksDB Docs",
+          "description": "RocksDB is a storage engine with key/value interface, where keys and values are arbitrary byte streams. It is a C++ library. It was developed at Facebook based on LevelDB and provides backwards-compatible support for LevelDB APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T19:18:05Z",
+            "owner": "facebook",
+            "repo": "rocksdb",
+            "stars": 31971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FBT Docs",
+          "description": "FBT is an internationalization framework for JavaScript designed to be not just powerful and flexible, but also simple and intuitive. Edit on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-11-14T00:04:17Z",
+            "owner": "facebook",
+            "repo": "fbt",
+            "stars": 3880
+          }
+        }
+      ],
+      "title": "Facebook Open Source Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenTitan Docs",
+          "description": "OpenTitan is the first open source project building a transparent, high-quality reference design and integration guidelines for silicon root of trust (RoT) chips. Edit on GitHub -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-08-13T21:06:02Z",
+            "owner": "lowRISC",
+            "repo": "opentitan",
+            "stars": 3590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Istio Docs",
+          "description": "Istio is an open platform that provides a uniform way to connect, manage, and secure microservices. Edit on GitHub. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T10:26:07Z",
+            "owner": "istio",
+            "repo": "istio.io",
+            "stars": 821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AMP Project Docs",
+          "description": "The AMP(Accelerated Mobile Pages) Project is an open source initiative aiming to make the web better for all. Edit on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T00:44:07Z",
+            "owner": "ampproject",
+            "repo": "amp.dev",
+            "stars": 600
+          }
+        }
+      ],
+      "title": "Google Open Source Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Qiskit Docs",
+          "description": "An open-source SDK for working with quantum computers. Edit on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-08T15:50:07Z",
+            "owner": "Qiskit",
+            "repo": "platypus",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node-RED Docs",
+          "description": "Low-code programming for event-driven applications. Edit on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-01T06:58:37Z",
+            "owner": "node-red",
+            "repo": "node-red.github.io",
+            "stars": 116
+          }
+        }
+      ],
+      "title": "IBM Open Source Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LoginRadius Engineering Portal",
+          "description": "Engineering Blog where you can contribute by writing a guest blog of fixing any issue you find with any of the available blogs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-02T07:24:08Z",
+            "owner": "LoginRadius",
+            "repo": "engineering-portal",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Egnature",
+          "description": "An email signature generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-07T01:26:34Z",
+            "owner": "LoginRadius",
+            "repo": "egnature",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go-SAML",
+          "description": "High-Level API Implementation of SAML 2.0 (Currently Supported Identity Provider Implementation) Single Sign-On.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-01-21T16:26:39Z",
+            "owner": "LoginRadius",
+            "repo": "go-saml",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C# Password Hash Library",
+          "description": ".NET standard library to secure the passwords using multiple hashing algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-26T09:19:31Z",
+            "owner": "LoginRadius",
+            "repo": "csharp-password-hash",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PS-Softlist",
+          "description": "A power shell script to detect non-whitelisted installed software on Windows machines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2021-11-02T15:49:40Z",
+            "owner": "LoginRadius",
+            "repo": "ps-softlist",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cascade",
+          "description": "Create your internal developer's portal using Cascade.",
+          "children": []
+        }
+      ],
+      "title": "LoginRadius Open Source Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Azure Docs",
+          "description": "A cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers. Edit on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-08-14T05:11:18Z",
+            "owner": "MicrosoftDocs",
+            "repo": "azure-docs",
+            "stars": 10948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft 365 Docs",
+          "description": "This repo is used to host the source for the Microsoft 365 documentation on. Edit on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-30T23:18:56Z",
+            "owner": "MicrosoftDocs",
+            "repo": "microsoft-365-docs",
+            "stars": 1169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Accessibility Insights for Web Docs",
+          "description": "Accessibility Insights for Web. Edit on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T21:15:56Z",
+            "owner": "microsoft",
+            "repo": "accessibility-insights-web",
+            "stars": 910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Accessibility Insights for Windows. Docs",
+          "description": "Accessibility Insights for Windows. Edit on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T02:20:56Z",
+            "owner": "microsoft",
+            "repo": "accessibility-insights-windows",
+            "stars": 538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft Terminal Docs",
+          "description": "The new Windows Terminal and the original Windows console host, all in the same place!. Edit on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-02T07:40:24Z",
+            "owner": "MicrosoftDocs",
+            "repo": "terminal",
+            "stars": 523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure PowerShell Docs",
+          "description": "Repository used to store Azure PowerShell cmdlet content published on docs.ms.com reference site. Edit on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-08-06T22:05:03Z",
+            "owner": "MicrosoftDocs",
+            "repo": "azure-docs-powershell",
+            "stars": 268
+          }
+        }
+      ],
+      "title": "Microsoft Open Source Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Conductor",
+          "description": "Conductor is a workflow orchestration engine that runs in the cloud. Edit on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-12-22T23:40:04Z",
+            "owner": "Netflix",
+            "repo": "conductor",
+            "stars": 12755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metaflow Docs",
+          "description": "Build and manage real-life data science projects with ease.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-18T16:25:38Z",
+            "owner": "Netflix",
+            "repo": "metaflow-docs",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Netflix Open Source Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WildFly Docs",
+          "description": "A flexible, lightweight, managed application runtime that helps you build amazing applications. Edit on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-14T03:29:32Z",
+            "owner": "wildfly",
+            "repo": "wildfly",
+            "stars": 3183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Project QUAY Docs",
+          "description": "Builds, analyzes, distributes your container images. Edit on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T20:30:11Z",
+            "owner": "quay",
+            "repo": "quay-docs",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "RedHat Open Source Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kepler.gl Docs",
+          "description": "kepler.gl is a data-agnostic, high-perf. web application for visual exploration of large-scale geolocation data sets, Edit Keplergl Docs on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T05:42:46Z",
+            "owner": "keplergl",
+            "repo": "kepler.gl",
+            "stars": 11967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jaeger Tracing Docs",
+          "description": "Base Web is a foundation for initiating, evolving, and unifying web products, Edit Jaeger Tracing Docs on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:43:01Z",
+            "owner": "jaegertracing",
+            "repo": "documentation",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FusionJS Docs",
+          "description": "Fusion.js is a modern framework for fast, powerful React apps, which provides a rich set of tools, Edit FusionJS Docs on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-13T16:14:54Z",
+            "owner": "fusionjs",
+            "repo": "fusionjs.github.io",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "Uber Open Source Documentation"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:50:30.544Z",
+    "original_repository": "saintmalik/awesome-oss-docs",
+    "original_repository_sha": "1347d8f56fb467642a731127556d103e4f30983b",
+    "enhanced_repository": "enhansome/enhansome-oss-docs",
+    "enhanced_repository_description": null,
+    "title": "Awesome OSS Documentation with stars"
+  }
+}
