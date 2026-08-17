@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T16:49:57Z",
             "owner": "firecracker-microvm",
             "repo": "firecracker",
-            "stars": 36086
+            "stars": 36100
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-14T09:59:27Z",
+            "last_commit": "2026-08-17T01:29:01Z",
             "owner": "apache",
             "repo": "apisix",
-            "stars": 16997
+            "stars": 17001
           }
         }
       ],
@@ -82,7 +82,7 @@
             "last_commit": "2026-08-13T17:30:38Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8941
+            "stars": 8945
           }
         },
         {
@@ -116,7 +116,7 @@
             "last_commit": "2025-01-22T19:41:54Z",
             "owner": "solana-labs",
             "repo": "solana",
-            "stars": 14943
+            "stars": 14944
           }
         },
         {
@@ -127,10 +127,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T12:16:58Z",
+            "last_commit": "2026-08-17T03:07:49Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7047
+            "stars": 7046
           }
         },
         {
@@ -144,7 +144,7 @@
             "last_commit": "2026-08-14T01:36:44Z",
             "owner": "binance",
             "repo": "binance-spot-api-docs",
-            "stars": 4848
+            "stars": 4850
           }
         }
       ],
@@ -161,10 +161,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T15:51:41Z",
+            "last_commit": "2026-08-16T15:11:36Z",
             "owner": "docker",
             "repo": "compose",
-            "stars": 38075
+            "stars": 38080
           }
         },
         {
@@ -175,10 +175,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T00:23:08Z",
+            "last_commit": "2026-08-17T00:25:00Z",
             "owner": "moby",
             "repo": "buildkit",
-            "stars": 10192
+            "stars": 10194
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-14T16:42:05Z",
             "owner": "docker",
             "repo": "cli",
-            "stars": 6005
+            "stars": 6008
           }
         },
         {
@@ -226,7 +226,7 @@
             "last_commit": "2026-08-14T22:35:57Z",
             "owner": "facebook",
             "repo": "rocksdb",
-            "stars": 31976
+            "stars": 31967
           }
         },
         {
@@ -257,7 +257,7 @@
           "repo_info": {
             "archived": false,
             "language": "SystemVerilog",
-            "last_commit": "2026-08-14T21:43:43Z",
+            "last_commit": "2026-08-16T15:13:31Z",
             "owner": "lowRISC",
             "repo": "opentitan",
             "stars": 3598
@@ -271,7 +271,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-15T02:19:07Z",
+            "last_commit": "2026-08-17T03:39:10Z",
             "owner": "istio",
             "repo": "istio.io",
             "stars": 821
@@ -285,7 +285,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-15T10:13:37Z",
+            "last_commit": "2026-08-16T11:49:44Z",
             "owner": "ampproject",
             "repo": "amp.dev",
             "stars": 600
@@ -421,7 +421,7 @@
           "repo_info": {
             "archived": false,
             "language": "Markdown",
-            "last_commit": "2026-08-15T17:08:35Z",
+            "last_commit": "2026-08-16T22:11:11Z",
             "owner": "MicrosoftDocs",
             "repo": "azure-docs",
             "stars": 10949
@@ -452,7 +452,7 @@
             "last_commit": "2026-08-14T16:25:09Z",
             "owner": "microsoft",
             "repo": "accessibility-insights-web",
-            "stars": 910
+            "stars": 911
           }
         },
         {
@@ -514,7 +514,7 @@
             "last_commit": "2023-12-22T23:40:04Z",
             "owner": "Netflix",
             "repo": "conductor",
-            "stars": 12755
+            "stars": 12753
           }
         },
         {
@@ -545,10 +545,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T03:28:57Z",
+            "last_commit": "2026-08-16T14:02:05Z",
             "owner": "wildfly",
             "repo": "wildfly",
-            "stars": 3184
+            "stars": 3183
           }
         },
         {
@@ -579,10 +579,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T23:27:14Z",
+            "last_commit": "2026-08-17T01:40:44Z",
             "owner": "keplergl",
             "repo": "kepler.gl",
-            "stars": 11969
+            "stars": 11971
           }
         },
         {
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:54:13.114Z",
+    "last_updated": "2026-08-17T05:02:23.361Z",
     "original_repository": "saintmalik/awesome-oss-docs",
     "original_repository_sha": "1347d8f56fb467642a731127556d103e4f30983b",
     "enhanced_repository": "enhansome/enhansome-oss-docs",
