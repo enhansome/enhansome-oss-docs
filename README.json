@@ -12,10 +12,10 @@
             "archived": false,
             "id": 107505869,
             "language": "Rust",
-            "last_commit": "2026-08-19T10:47:59Z",
+            "last_commit": "2026-08-19T16:38:50Z",
             "owner": "firecracker-microvm",
             "repo": "firecracker",
-            "stars": 36138
+            "stars": 36157
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 364003912,
             "language": "SCSS",
-            "last_commit": "2026-08-18T15:29:15Z",
+            "last_commit": "2026-08-19T18:18:46Z",
             "owner": "opensearch-project",
             "repo": "documentation-website",
             "stars": 112
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 180481986,
             "language": "Lua",
-            "last_commit": "2026-08-19T05:33:15Z",
+            "last_commit": "2026-08-20T03:13:16Z",
             "owner": "apache",
             "repo": "apisix",
-            "stars": 17005
+            "stars": 17008
           }
         }
       ],
@@ -84,10 +84,10 @@
             "archived": false,
             "id": 224386599,
             "language": "Python",
-            "last_commit": "2026-08-19T12:30:25Z",
+            "last_commit": "2026-08-19T23:04:15Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8954
+            "stars": 8957
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2025-01-22T19:41:54Z",
             "owner": "solana-labs",
             "repo": "solana",
-            "stars": 14941
+            "stars": 14942
           }
         },
         {
@@ -135,7 +135,7 @@
             "archived": false,
             "id": 51193526,
             "language": "Go",
-            "last_commit": "2026-08-19T11:57:41Z",
+            "last_commit": "2026-08-20T01:32:35Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
             "stars": 7044
@@ -171,10 +171,10 @@
             "archived": false,
             "id": 15045751,
             "language": "Go",
-            "last_commit": "2026-08-19T11:46:33Z",
+            "last_commit": "2026-08-19T16:10:01Z",
             "owner": "docker",
             "repo": "compose",
-            "stars": 38048
+            "stars": 38049
           }
         },
         {
@@ -186,7 +186,7 @@
             "archived": false,
             "id": 92969352,
             "language": "Go",
-            "last_commit": "2026-08-19T10:03:58Z",
+            "last_commit": "2026-08-20T00:24:25Z",
             "owner": "moby",
             "repo": "buildkit",
             "stars": 10201
@@ -204,7 +204,7 @@
             "last_commit": "2026-08-19T10:34:56Z",
             "owner": "docker",
             "repo": "cli",
-            "stars": 6011
+            "stars": 6012
           }
         },
         {
@@ -216,7 +216,7 @@
             "archived": false,
             "id": 65772720,
             "language": "Markdown",
-            "last_commit": "2026-08-19T12:22:55Z",
+            "last_commit": "2026-08-20T02:51:23Z",
             "owner": "docker",
             "repo": "docs",
             "stars": 4636
@@ -237,10 +237,10 @@
             "archived": false,
             "id": 6934395,
             "language": "C++",
-            "last_commit": "2026-08-19T12:06:57Z",
+            "last_commit": "2026-08-19T18:47:19Z",
             "owner": "facebook",
             "repo": "rocksdb",
-            "stars": 31982
+            "stars": 31986
           }
         },
         {
@@ -273,10 +273,10 @@
             "archived": false,
             "id": 204516692,
             "language": "SystemVerilog",
-            "last_commit": "2026-08-19T12:20:28Z",
+            "last_commit": "2026-08-19T19:46:05Z",
             "owner": "lowRISC",
             "repo": "opentitan",
-            "stars": 3599
+            "stars": 3600
           }
         },
         {
@@ -441,10 +441,10 @@
             "archived": false,
             "id": 72685026,
             "language": "Markdown",
-            "last_commit": "2026-08-19T11:39:03Z",
+            "last_commit": "2026-08-19T22:10:18Z",
             "owner": "MicrosoftDocs",
             "repo": "azure-docs",
-            "stars": 10955
+            "stars": 10959
           }
         },
         {
@@ -471,7 +471,7 @@
             "archived": false,
             "id": 160750261,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:20:33Z",
+            "last_commit": "2026-08-19T21:44:12Z",
             "owner": "microsoft",
             "repo": "accessibility-insights-web",
             "stars": 912
@@ -573,7 +573,7 @@
             "archived": false,
             "id": 764708,
             "language": "Java",
-            "last_commit": "2026-08-18T18:49:32Z",
+            "last_commit": "2026-08-19T18:48:03Z",
             "owner": "wildfly",
             "repo": "wildfly",
             "stars": 3184
@@ -609,10 +609,10 @@
             "archived": false,
             "id": 123345344,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T08:45:26Z",
+            "last_commit": "2026-08-20T00:04:12Z",
             "owner": "keplergl",
             "repo": "kepler.gl",
-            "stars": 11976
+            "stars": 11979
           }
         },
         {
@@ -650,7 +650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:43:57.695Z",
+    "last_updated": "2026-08-20T04:57:40.277Z",
     "original_repository": "saintmalik/awesome-oss-docs",
     "original_repository_id": 389038869,
     "original_repository_sha": "1347d8f56fb467642a731127556d103e4f30983b",
