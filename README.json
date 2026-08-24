@@ -12,10 +12,10 @@
             "archived": false,
             "id": 107505869,
             "language": "Rust",
-            "last_commit": "2026-08-21T12:41:40Z",
+            "last_commit": "2026-08-24T14:21:47Z",
             "owner": "firecracker-microvm",
             "repo": "firecracker",
-            "stars": 36230
+            "stars": 36239
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 364003912,
             "language": "SCSS",
-            "last_commit": "2026-08-21T15:48:52Z",
+            "last_commit": "2026-08-24T14:31:51Z",
             "owner": "opensearch-project",
             "repo": "documentation-website",
             "stars": 112
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 45721011,
             "language": "Java",
-            "last_commit": "2026-08-24T02:15:20Z",
+            "last_commit": "2026-08-24T13:38:33Z",
             "owner": "apache",
             "repo": "skywalking",
-            "stars": 24928
+            "stars": 24929
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 180481986,
             "language": "Lua",
-            "last_commit": "2026-08-24T03:34:04Z",
+            "last_commit": "2026-08-24T08:34:19Z",
             "owner": "apache",
             "repo": "apisix",
-            "stars": 17021
+            "stars": 17024
           }
         }
       ],
@@ -87,7 +87,7 @@
             "last_commit": "2026-08-23T09:51:59Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8970
+            "stars": 8971
           }
         },
         {
@@ -135,7 +135,7 @@
             "archived": false,
             "id": 51193526,
             "language": "Go",
-            "last_commit": "2026-08-24T01:42:45Z",
+            "last_commit": "2026-08-24T12:22:16Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
             "stars": 7049
@@ -171,10 +171,10 @@
             "archived": false,
             "id": 15045751,
             "language": "Go",
-            "last_commit": "2026-08-21T09:03:02Z",
+            "last_commit": "2026-08-24T12:48:23Z",
             "owner": "docker",
             "repo": "compose",
-            "stars": 38051
+            "stars": 38054
           }
         },
         {
@@ -186,7 +186,7 @@
             "archived": false,
             "id": 92969352,
             "language": "Go",
-            "last_commit": "2026-08-24T00:25:41Z",
+            "last_commit": "2026-08-24T13:11:37Z",
             "owner": "moby",
             "repo": "buildkit",
             "stars": 10204
@@ -201,10 +201,10 @@
             "archived": false,
             "id": 88013053,
             "language": "Go",
-            "last_commit": "2026-08-21T08:45:54Z",
+            "last_commit": "2026-08-24T10:16:17Z",
             "owner": "docker",
             "repo": "cli",
-            "stars": 6020
+            "stars": 6021
           }
         },
         {
@@ -216,7 +216,7 @@
             "archived": false,
             "id": 65772720,
             "language": "Markdown",
-            "last_commit": "2026-08-24T02:53:05Z",
+            "last_commit": "2026-08-24T13:48:18Z",
             "owner": "docker",
             "repo": "docs",
             "stars": 4637
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-22T19:19:35Z",
             "owner": "facebook",
             "repo": "rocksdb",
-            "stars": 32004
+            "stars": 32005
           }
         },
         {
@@ -273,10 +273,10 @@
             "archived": false,
             "id": 204516692,
             "language": "SystemVerilog",
-            "last_commit": "2026-08-23T21:49:01Z",
+            "last_commit": "2026-08-24T14:11:42Z",
             "owner": "lowRISC",
             "repo": "opentitan",
-            "stars": 3604
+            "stars": 3605
           }
         },
         {
@@ -288,7 +288,7 @@
             "archived": false,
             "id": 82706976,
             "language": "HTML",
-            "last_commit": "2026-08-23T20:40:54Z",
+            "last_commit": "2026-08-24T14:35:55Z",
             "owner": "istio",
             "repo": "istio.io",
             "stars": 820
@@ -441,7 +441,7 @@
             "archived": false,
             "id": 72685026,
             "language": "Markdown",
-            "last_commit": "2026-08-23T22:15:17Z",
+            "last_commit": "2026-08-24T14:37:36Z",
             "owner": "MicrosoftDocs",
             "repo": "azure-docs",
             "stars": 10961
@@ -459,7 +459,7 @@
             "last_commit": "2026-04-30T23:18:56Z",
             "owner": "MicrosoftDocs",
             "repo": "microsoft-365-docs",
-            "stars": 1172
+            "stars": 1173
           }
         },
         {
@@ -471,7 +471,7 @@
             "archived": false,
             "id": 160750261,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T09:54:10Z",
+            "last_commit": "2026-08-24T10:24:52Z",
             "owner": "microsoft",
             "repo": "accessibility-insights-web",
             "stars": 912
@@ -540,7 +540,7 @@
             "last_commit": "2023-12-22T23:40:04Z",
             "owner": "Netflix",
             "repo": "conductor",
-            "stars": 12754
+            "stars": 12755
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2026-08-21T16:22:56Z",
             "owner": "wildfly",
             "repo": "wildfly",
-            "stars": 3185
+            "stars": 3186
           }
         },
         {
@@ -602,6 +602,132 @@
       "items": [
         {
           "node_type": "item",
+          "title": "TransmogrifAI Docs",
+          "description": "AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand tuning. Edit on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109289451,
+            "language": "Scala",
+            "last_commit": "2026-06-02T18:03:07Z",
+            "owner": "salesforce",
+            "repo": "TransmogrifAI",
+            "stars": 2276
+          }
+        }
+      ],
+      "title": "Salesforce Open Source Documentation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FunctionalTableData Docs",
+          "description": "Declarative UITableViewDataSource implementation, Edit FunctionalTableData Docs on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98907583,
+            "language": "Swift",
+            "last_commit": "2025-08-07T14:57:28Z",
+            "owner": "Shopify",
+            "repo": "FunctionalTableData",
+            "stars": 370
+          }
+        }
+      ],
+      "title": "Shopify Open Source Documentation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Trento Docs",
+          "description": "A cloud native web console for SAP Applications system administrators tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 335292780,
+            "language": "Go",
+            "last_commit": "2022-05-30T10:34:54Z",
+            "owner": "trento-project",
+            "repo": "trento",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "SUSE Open Source Documentation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tailwind Docs",
+          "description": "Tailwind is a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup. GitHub Docs Location.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 106017343,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T19:43:34Z",
+            "owner": "tailwindlabs",
+            "repo": "tailwindcss",
+            "stars": 97312
+          }
+        }
+      ],
+      "title": "Tailwind Open Source Documentation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SendGrid Docs",
+          "description": "SendGrid is everything you need to send emails that cut through the noise and make a connection. GitHub Docs Location",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 4679626,
+            "language": "JavaScript",
+            "last_commit": "2021-08-26T19:12:59Z",
+            "owner": "sendgrid",
+            "repo": "docs",
+            "stars": 235
+          }
+        }
+      ],
+      "title": "Twilio Open Source Documentation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pants",
+          "description": "Pants is a fast, scalable, user-friendly build system for codebases of all sizes. It's currently focused on Python and Shell, with support for other languages coming soon. Edit this on GitHub -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7209075,
+            "language": "Python",
+            "last_commit": "2026-08-24T05:16:19Z",
+            "owner": "pantsbuild",
+            "repo": "pants",
+            "stars": 3818
+          }
+        }
+      ],
+      "title": "Twitter Open Source Documentation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Kepler.gl Docs",
           "description": "kepler.gl is a data-agnostic, high-perf. web application for visual exploration of large-scale geolocation data sets, Edit Keplergl Docs on GitHub",
           "children": [],
@@ -609,10 +735,10 @@
             "archived": false,
             "id": 123345344,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T22:18:25Z",
+            "last_commit": "2026-08-24T08:27:06Z",
             "owner": "keplergl",
             "repo": "kepler.gl",
-            "stars": 11983
+            "stars": 11985
           }
         },
         {
@@ -650,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:06:04.498Z",
+    "last_updated": "2026-08-24T14:39:34.324Z",
     "original_repository": "saintmalik/awesome-oss-docs",
     "original_repository_id": 389038869,
     "original_repository_sha": "1347d8f56fb467642a731127556d103e4f30983b",
