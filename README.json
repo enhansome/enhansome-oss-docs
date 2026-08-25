@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T17:04:29Z",
             "owner": "firecracker-microvm",
             "repo": "firecracker",
-            "stars": 36250
+            "stars": 36252
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-24T08:34:19Z",
             "owner": "apache",
             "repo": "apisix",
-            "stars": 17029
+            "stars": 17028
           }
         }
       ],
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-24T12:48:23Z",
             "owner": "docker",
             "repo": "compose",
-            "stars": 38054
+            "stars": 38056
           }
         },
         {
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 204516692,
             "language": "SystemVerilog",
-            "last_commit": "2026-08-25T04:37:41Z",
+            "last_commit": "2026-08-25T06:30:47Z",
             "owner": "lowRISC",
             "repo": "opentitan",
             "stars": 3605
@@ -441,7 +441,7 @@
             "archived": false,
             "id": 72685026,
             "language": "Markdown",
-            "last_commit": "2026-08-25T02:26:25Z",
+            "last_commit": "2026-08-25T05:08:48Z",
             "owner": "MicrosoftDocs",
             "repo": "azure-docs",
             "stars": 10961
@@ -675,7 +675,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97323
+            "stars": 97324
           }
         }
       ],
@@ -714,7 +714,7 @@
             "archived": false,
             "id": 7209075,
             "language": "Python",
-            "last_commit": "2026-08-24T05:16:19Z",
+            "last_commit": "2026-08-25T06:10:09Z",
             "owner": "pantsbuild",
             "repo": "pants",
             "stars": 3819
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:03:27.674Z",
+    "last_updated": "2026-08-25T06:30:54.734Z",
     "original_repository": "saintmalik/awesome-oss-docs",
     "original_repository_id": 389038869,
     "original_repository_sha": "1347d8f56fb467642a731127556d103e4f30983b",

@@ -52,7 +52,7 @@
 
 ## Amazon Open Source Documentation
 
-* [Firecracker Docs](https://github.com/firecracker-microvm/firecracker/blob/main/docs/getting-started.md) ⭐ 36,250 | 🐛 114 | 🌐 Rust | 📅 2026-08-24 - Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models. `Community Owned Docs`
+* [Firecracker Docs](https://github.com/firecracker-microvm/firecracker/blob/main/docs/getting-started.md) ⭐ 36,252 | 🐛 114 | 🌐 Rust | 📅 2026-08-24 - Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models. `Community Owned Docs`
 * [OpenSearch Docs](https://opensearch.org/docs) - The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins. [Edit on GitHub](https://github.com/opensearch-project/documentation-website) ⭐ 112 | 🐛 81 | 🌐 SCSS | 📅 2026-08-24. `Community Owned Docs`
 * [Amplify JS Docs](https://docs.amplify.aws/lib/q/platform/js) - A declarative JavaScript library for application development using cloud services.`Company Owned Docs`
 * [Amplify iOS Docs](https://docs.amplify.aws/start/q/integration/ios) - A declarative library for application development using cloud services. `Company Owned Docs`
@@ -75,9 +75,9 @@
 
 ## Apache Software Foundation Open Source Documentation
 
-* [Apache SkyWalking](https://skywalking.apache.org/) - Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures. [Edit on GitHub](https://github.com/apache/skywalking/tree/master/docs) ⭐ 24,929 | 🐛 29 | 🌐 Java | 📅 2026-08-25 `Community Owned Docs`
+* [Apache SkyWalking](https://skywalking.apache.org/) - Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures. [Edit on GitHub](https://github.com/apache/skywalking/tree/master/docs) ⭐ 24,929 | 🐛 33 | 🌐 Java | 📅 2026-08-25 `Community Owned Docs`
 
-* [Apache APISIX](http://apisix.apache.org/) - Apache APISIX is a dynamic, real-time, high-performance API gateway, and it provides rich traffic management features such as load balancing, dynamic upstream, canary release, circuit breaking, authentication, observability, and more. [Edit on GitHub](https://github.com/apache/apisix/tree/master/docs) ⭐ 17,029 | 🐛 255 | 🌐 Lua | 📅 2026-08-24 `Community Owned Docs`
+* [Apache APISIX](http://apisix.apache.org/) - Apache APISIX is a dynamic, real-time, high-performance API gateway, and it provides rich traffic management features such as load balancing, dynamic upstream, canary release, circuit breaking, authentication, observability, and more. [Edit on GitHub](https://github.com/apache/apisix/tree/master/docs) ⭐ 17,028 | 🐛 255 | 🌐 Lua | 📅 2026-08-24 `Community Owned Docs`
 
 * [Apache Ant](https://ant.apache.org/manual/index.html) - Apache Ant is a Java-based build tool. In theory, it is kind of like make, without make's wrinkles. `Community Owned Docs`
 
@@ -89,7 +89,7 @@
 
 ## Apple Open Source Documentation
 
-* [Swift](https://swift.org/documentation/) - A powerful and intuitive programming language designed to give developers the freedom and capabilities they need to create a new generation of cutting-edge apps. [Edit on GitHub](https://github.com/apple/swift/tree/main/docs) ⭐ 70,282 | 🐛 9,237 | 🌐 Swift | 📅 2026-08-25. `Community Owned Docs`
+* [Swift](https://swift.org/documentation/) - A powerful and intuitive programming language designed to give developers the freedom and capabilities they need to create a new generation of cutting-edge apps. [Edit on GitHub](https://github.com/apple/swift/tree/main/docs) ⭐ 70,282 | 🐛 9,236 | 🌐 Swift | 📅 2026-08-25. `Community Owned Docs`
 * [WebKit](https://webkit.org/) - An open source rendering engine introduced by Apple — powers Safari on macOS and iOS. `Community Owned Docs`
 
 <a name="bridgecrew-open-source-documentation"/>
@@ -128,17 +128,17 @@
 
 ## Docker Open Source Documentation
 
-* [Compose](https://docs.docker.com/compose/) - Define and run multi-container applications with Docker.[Edit on GitHub](https://github.com/docker/compose) ⭐ 38,054 | 🐛 98 | 🌐 Go | 📅 2026-08-24 `Company Owned Docs`
+* [Compose](https://docs.docker.com/compose/) - Define and run multi-container applications with Docker.[Edit on GitHub](https://github.com/docker/compose) ⭐ 38,056 | 🐛 98 | 🌐 Go | 📅 2026-08-24 `Company Owned Docs`
 * [Build Kit](https://docs.docker.com/develop/develop-images/build_enhancements/) - A set of tooling for building and packaging software using containers. [Edit on GitHub](https://github.com/moby/buildkit) ⭐ 10,207 | 🐛 917 | 🌐 Go | 📅 2026-08-25 `Company Owned Docs`
 * [Docker cli](https://docs.docker.com/engine/reference/commandline/cli/) - The cli used in the Docker CE and Docker EE products. [Edit on GitHub](https://github.com/docker/cli) ⭐ 6,021 | 🐛 873 | 🌐 Go | 📅 2026-08-24 `Company Owned Docs`
-* [Docker Docs](https://docs.docker.com/) - Docker is an open platform for developing, shipping, and running applications. [Edit on GitHub](https://github.com/docker/docker.github.io) ⭐ 4,637 | 🐛 232 | 🌐 Markdown | 📅 2026-08-25 `Company Owned Docs`
+* [Docker Docs](https://docs.docker.com/) - Docker is an open platform for developing, shipping, and running applications. [Edit on GitHub](https://github.com/docker/docker.github.io) ⭐ 4,637 | 🐛 233 | 🌐 Markdown | 📅 2026-08-25 `Company Owned Docs`
 * [Docker registry](https://docs.docker.com/registry/) - store your docker images. `Company Owned Docs`
 
 <a name="dropbox-open-source-documentation"/>
 
 ## Dropbox Open Source Documentation
 
-* [dropbox-sdk-java](https://dropbox.github.io/dropbox-sdk-java/api-docs/v2.1.x/) - Java library for the Dropbox API. [Edit on GitHub](https://github.com/dropbox/dropbox-sdk-java) ⭐ 628 | 🐛 30 | 🌐 Java | 📅 2026-08-21 `Company Owned Docs`
+* [dropbox-sdk-java](https://dropbox.github.io/dropbox-sdk-java/api-docs/v2.1.x/) - Java library for the Dropbox API. [Edit on GitHub](https://github.com/dropbox/dropbox-sdk-java) ⭐ 628 | 🐛 30 | 🌐 Java | 📅 2026-08-25 `Company Owned Docs`
 
 <a name="elastic-open-source-documentation"/>
 
@@ -268,7 +268,7 @@
 
 ## Microsoft Open Source Documentation
 
-* [Azure Docs](https://docs.microsoft.com/en-us/azure/) - A cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers. [Edit on GitHub](https://github.com/MicrosoftDocs/azure-docs) ⭐ 10,961 | 🐛 1,763 | 🌐 Markdown | 📅 2026-08-25 `Company Owned Documentation`
+* [Azure Docs](https://docs.microsoft.com/en-us/azure/) - A cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers. [Edit on GitHub](https://github.com/MicrosoftDocs/azure-docs) ⭐ 10,961 | 🐛 1,764 | 🌐 Markdown | 📅 2026-08-25 `Company Owned Documentation`
 * [Microsoft 365 Docs](https://docs.microsoft.com/) - This repo is used to host the source for the Microsoft 365 documentation on. [Edit on GitHub](https://github.com/MicrosoftDocs/microsoft-365-docs) ⭐ 1,174 | 🐛 13 | 📅 2026-04-30 `Company Owned Documentation`
 * [Accessibility Insights for Web Docs](https://accessibilityinsights.io/docs/en/web/overview/) - Accessibility Insights for Web. [Edit on GitHub](https://github.com/microsoft/accessibility-insights-web/tree/main/docs) ⭐ 912 | 🐛 66 | 🌐 TypeScript | 📅 2026-08-24 `Company Owned Documentation`
 * [Accessibility Insights for Windows. Docs](https://accessibilityinsights.io/docs/en/windows/overview/) - Accessibility Insights for Windows. [Edit on GitHub](https://github.com/microsoft/accessibility-insights-windows/tree/main/docs) ⭐ 539 | 🐛 23 | 🌐 C# | 📅 2026-08-11 `Company Owned Documentation`
@@ -386,7 +386,7 @@
 
 ## Tailwind Open Source Documentation
 
-* [Tailwind Docs](https://v2.tailwindcss.com/docs/installation) - Tailwind is a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup. [GitHub Docs Location](https://github.com/tailwindlabs/tailwindcss) ⭐ 97,323 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-14. `Community Owned Docs`
+* [Tailwind Docs](https://v2.tailwindcss.com/docs/installation) - Tailwind is a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup. [GitHub Docs Location](https://github.com/tailwindlabs/tailwindcss) ⭐ 97,324 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-14. `Community Owned Docs`
 
 <a name="the-guild-open-source-documentation"/>
 
@@ -409,7 +409,7 @@
 
 ## Twitter Open Source Documentation
 
-* [Pants](https://www.pantsbuild.org/docs) - Pants is a fast, scalable, user-friendly build system for codebases of all sizes. It's currently focused on Python and Shell, with support for other languages coming soon. [Edit this on GitHub](https://github.com/pantsbuild/pants/tree/main/docs) ⭐ 3,819 | 🐛 1,094 | 🌐 Python | 📅 2026-08-24 -`Community Owned Docs`
+* [Pants](https://www.pantsbuild.org/docs) - Pants is a fast, scalable, user-friendly build system for codebases of all sizes. It's currently focused on Python and Shell, with support for other languages coming soon. [Edit this on GitHub](https://github.com/pantsbuild/pants/tree/main/docs) ⭐ 3,819 | 🐛 1,092 | 🌐 Python | 📅 2026-08-25 -`Community Owned Docs`
 
 <a name="uber-open-source-documentation"/>
 
