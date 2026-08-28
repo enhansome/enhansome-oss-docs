@@ -12,11 +12,12 @@
             "archived": false,
             "id": 107505869,
             "language": "Rust",
-            "last_commit": "2026-08-27T13:15:02Z",
+            "last_commit": "2026-08-28T11:50:23Z",
             "owner": "firecracker-microvm",
             "repo": "firecracker",
-            "stars": 36318
-          }
+            "stars": 36346
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "opensearch-project",
             "repo": "documentation-website",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         }
       ],
       "title": "Amazon Open Source Documentation"
@@ -51,8 +53,9 @@
             "last_commit": "2026-08-26T06:25:56Z",
             "owner": "apache",
             "repo": "skywalking",
-            "stars": 24931
-          }
+            "stars": 24932
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -63,11 +66,12 @@
             "archived": false,
             "id": 180481986,
             "language": "Lua",
-            "last_commit": "2026-08-27T10:26:55Z",
+            "last_commit": "2026-08-28T00:50:46Z",
             "owner": "apache",
             "repo": "apisix",
-            "stars": 17042
-          }
+            "stars": 17046
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         }
       ],
       "title": "Apache Software Foundation Open Source Documentation"
@@ -87,8 +91,9 @@
             "last_commit": "2026-08-27T00:07:25Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8973
-          }
+            "stars": 8976
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "bridgecrewio",
             "repo": "yor",
             "stars": 933
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         }
       ],
       "title": "Bridgecrew Open Source Documentation"
@@ -123,8 +129,9 @@
             "last_commit": "2025-01-22T19:41:54Z",
             "owner": "solana-labs",
             "repo": "solana",
-            "stars": 14943
-          }
+            "stars": 14940
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -135,11 +142,12 @@
             "archived": false,
             "id": 51193526,
             "language": "Go",
-            "last_commit": "2026-08-26T21:32:48Z",
+            "last_commit": "2026-08-28T16:34:46Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7050
-          }
+            "stars": 7051
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -153,8 +161,9 @@
             "last_commit": "2026-08-27T02:50:51Z",
             "owner": "binance",
             "repo": "binance-spot-api-docs",
-            "stars": 4855
-          }
+            "stars": 4856
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         }
       ],
       "title": "Cryptocurrencies Open Source Documentation"
@@ -171,11 +180,12 @@
             "archived": false,
             "id": 15045751,
             "language": "Go",
-            "last_commit": "2026-08-27T10:14:55Z",
+            "last_commit": "2026-08-28T09:09:06Z",
             "owner": "docker",
             "repo": "compose",
-            "stars": 38065
-          }
+            "stars": 38070
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -186,11 +196,12 @@
             "archived": false,
             "id": 92969352,
             "language": "Go",
-            "last_commit": "2026-08-27T08:02:49Z",
+            "last_commit": "2026-08-28T00:24:33Z",
             "owner": "moby",
             "repo": "buildkit",
-            "stars": 10212
-          }
+            "stars": 10214
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -201,11 +212,12 @@
             "archived": false,
             "id": 88013053,
             "language": "Go",
-            "last_commit": "2026-08-27T12:10:47Z",
+            "last_commit": "2026-08-28T10:41:49Z",
             "owner": "docker",
             "repo": "cli",
-            "stars": 6028
-          }
+            "stars": 6032
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -216,11 +228,12 @@
             "archived": false,
             "id": 65772720,
             "language": "Markdown",
-            "last_commit": "2026-08-27T13:53:29Z",
+            "last_commit": "2026-08-28T14:48:43Z",
             "owner": "docker",
             "repo": "docs",
-            "stars": 4640
-          }
+            "stars": 4639
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         }
       ],
       "title": "Docker Open Source Documentation"
@@ -237,11 +250,12 @@
             "archived": false,
             "id": 6934395,
             "language": "C++",
-            "last_commit": "2026-08-27T04:54:40Z",
+            "last_commit": "2026-08-28T16:04:37Z",
             "owner": "facebook",
             "repo": "rocksdb",
-            "stars": 32015
-          }
+            "stars": 32023
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -256,7 +270,8 @@
             "owner": "facebook",
             "repo": "fbt",
             "stars": 3882
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         }
       ],
       "title": "Facebook Open Source Documentation"
@@ -273,11 +288,12 @@
             "archived": false,
             "id": 204516692,
             "language": "SystemVerilog",
-            "last_commit": "2026-08-27T15:11:31Z",
+            "last_commit": "2026-08-28T15:41:54Z",
             "owner": "lowRISC",
             "repo": "opentitan",
-            "stars": 3612
-          }
+            "stars": 3613
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -288,11 +304,12 @@
             "archived": false,
             "id": 82706976,
             "language": "HTML",
-            "last_commit": "2026-08-27T14:52:20Z",
+            "last_commit": "2026-08-28T09:02:19Z",
             "owner": "istio",
             "repo": "istio.io",
             "stars": 820
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -307,7 +324,8 @@
             "owner": "ampproject",
             "repo": "amp.dev",
             "stars": 600
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         }
       ],
       "title": "Google Open Source Documentation"
@@ -328,7 +346,8 @@
             "owner": "Qiskit",
             "repo": "platypus",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -343,7 +362,8 @@
             "owner": "node-red",
             "repo": "node-red.github.io",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         }
       ],
       "title": "IBM Open Source Documentation"
@@ -364,7 +384,8 @@
             "owner": "LoginRadius",
             "repo": "engineering-portal",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -379,7 +400,8 @@
             "owner": "LoginRadius",
             "repo": "egnature",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -394,7 +416,8 @@
             "owner": "LoginRadius",
             "repo": "go-saml",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -409,7 +432,8 @@
             "owner": "LoginRadius",
             "repo": "csharp-password-hash",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -424,7 +448,8 @@
             "owner": "LoginRadius",
             "repo": "ps-softlist",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         }
       ],
       "title": "LoginRadius Open Source Documentation"
@@ -441,11 +466,12 @@
             "archived": false,
             "id": 72685026,
             "language": "Markdown",
-            "last_commit": "2026-08-27T11:40:31Z",
+            "last_commit": "2026-08-28T16:23:53Z",
             "owner": "MicrosoftDocs",
             "repo": "azure-docs",
             "stars": 10963
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -460,7 +486,8 @@
             "owner": "MicrosoftDocs",
             "repo": "microsoft-365-docs",
             "stars": 1174
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -474,8 +501,9 @@
             "last_commit": "2026-08-24T10:24:52Z",
             "owner": "microsoft",
             "repo": "accessibility-insights-web",
-            "stars": 916
-          }
+            "stars": 928
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -489,8 +517,9 @@
             "last_commit": "2026-08-11T02:20:56Z",
             "owner": "microsoft",
             "repo": "accessibility-insights-windows",
-            "stars": 540
-          }
+            "stars": 543
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -505,7 +534,8 @@
             "owner": "MicrosoftDocs",
             "repo": "terminal",
             "stars": 524
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -516,11 +546,12 @@
             "archived": false,
             "id": 65505914,
             "language": "Dockerfile",
-            "last_commit": "2026-08-27T07:59:13Z",
+            "last_commit": "2026-08-27T18:40:46Z",
             "owner": "MicrosoftDocs",
             "repo": "azure-docs-powershell",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         }
       ],
       "title": "Microsoft Open Source Documentation"
@@ -541,7 +572,8 @@
             "owner": "Netflix",
             "repo": "conductor",
             "stars": 12754
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -552,11 +584,12 @@
             "archived": false,
             "id": 246936086,
             "language": "JavaScript",
-            "last_commit": "2026-03-18T16:25:38Z",
+            "last_commit": "2026-08-27T22:41:30Z",
             "owner": "Netflix",
             "repo": "metaflow-docs",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         }
       ],
       "title": "Netflix Open Source Documentation"
@@ -573,11 +606,12 @@
             "archived": false,
             "id": 764708,
             "language": "Java",
-            "last_commit": "2026-08-26T21:34:35Z",
+            "last_commit": "2026-08-27T18:32:44Z",
             "owner": "wildfly",
             "repo": "wildfly",
-            "stars": 3186
-          }
+            "stars": 3188
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -592,7 +626,8 @@
             "owner": "quay",
             "repo": "quay-docs",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         }
       ],
       "title": "RedHat Open Source Documentation"
@@ -613,7 +648,8 @@
             "owner": "salesforce",
             "repo": "TransmogrifAI",
             "stars": 2277
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         }
       ],
       "title": "Salesforce Open Source Documentation"
@@ -634,7 +670,8 @@
             "owner": "Shopify",
             "repo": "FunctionalTableData",
             "stars": 370
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         }
       ],
       "title": "Shopify Open Source Documentation"
@@ -655,7 +692,8 @@
             "owner": "trento-project",
             "repo": "trento",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         }
       ],
       "title": "SUSE Open Source Documentation"
@@ -675,8 +713,9 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97356
-          }
+            "stars": 97368
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         }
       ],
       "title": "Tailwind Open Source Documentation"
@@ -697,7 +736,8 @@
             "owner": "sendgrid",
             "repo": "docs",
             "stars": 235
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         }
       ],
       "title": "Twilio Open Source Documentation"
@@ -714,11 +754,12 @@
             "archived": false,
             "id": 7209075,
             "language": "Python",
-            "last_commit": "2026-08-27T04:02:11Z",
+            "last_commit": "2026-08-27T20:25:53Z",
             "owner": "pantsbuild",
             "repo": "pants",
             "stars": 3819
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         }
       ],
       "title": "Twitter Open Source Documentation"
@@ -735,11 +776,12 @@
             "archived": false,
             "id": 123345344,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T12:33:43Z",
+            "last_commit": "2026-08-28T16:39:34Z",
             "owner": "keplergl",
             "repo": "kepler.gl",
             "stars": 11989
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -754,7 +796,8 @@
             "owner": "jaegertracing",
             "repo": "documentation",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         },
         {
           "node_type": "item",
@@ -769,14 +812,15 @@
             "owner": "fusionjs",
             "repo": "fusionjs.github.io",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T16:43:25.637Z"
         }
       ],
       "title": "Uber Open Source Documentation"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:20:03.657Z",
+    "last_updated": "2026-08-28T16:43:25.637Z",
     "original_repository_info": {
       "archived": false,
       "id": 389038869,
