@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Secure and fast microVMs for serverless computing.",
+            "homepage": "http://firecracker-microvm.io",
             "id": 107505869,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T11:50:23Z",
+            "open_issues": 103,
             "owner": "firecracker-microvm",
             "repo": "firecracker",
-            "stars": 36346
+            "stars": 36351,
+            "topics": [
+              "containers",
+              "minimalist",
+              "open-source",
+              "oversubscription",
+              "rust",
+              "sandbox",
+              "serverless",
+              "virtual-machine",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -26,12 +41,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins.",
+            "homepage": "https://opensearch.org/docs",
             "id": 364003912,
             "language": "SCSS",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T18:44:26Z",
+            "open_issues": 90,
             "owner": "opensearch-project",
             "repo": "documentation-website",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         }
@@ -48,12 +68,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "APM, Application Performance Monitoring System",
+            "homepage": "https://skywalking.apache.org/",
             "id": 45721011,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T06:25:56Z",
+            "open_issues": 40,
             "owner": "apache",
             "repo": "skywalking",
-            "stars": 24932
+            "stars": 24932,
+            "topics": [
+              "apm",
+              "dapper",
+              "distributed-tracing",
+              "ebpf",
+              "logging",
+              "metrics",
+              "observability",
+              "open-telemetry",
+              "prometheus",
+              "service-mesh",
+              "skywalking",
+              "telegraf",
+              "web-performance",
+              "zabbix"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -64,12 +104,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Cloud-Native API Gateway and AI Gateway",
+            "homepage": "https://apisix.apache.org/blog/",
             "id": 180481986,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T00:50:46Z",
+            "open_issues": 248,
             "owner": "apache",
             "repo": "apisix",
-            "stars": 17046
+            "stars": 17048,
+            "topics": [
+              "ai-gateway",
+              "api",
+              "api-gateway",
+              "api-management",
+              "apisix",
+              "cloud-native",
+              "devops",
+              "iot",
+              "kubernetes",
+              "kubernetes-ingress",
+              "loadbalancing",
+              "luajit",
+              "microservices",
+              "nginx",
+              "openapi",
+              "openapi3",
+              "openapi31",
+              "reverse-proxy",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         }
@@ -86,12 +151,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.",
+            "homepage": "https://www.checkov.io/",
             "id": 224386599,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T00:07:25Z",
+            "open_issues": 167,
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8976
+            "stars": 8975,
+            "topics": [
+              "aws",
+              "aws-security",
+              "azure",
+              "cloudformation",
+              "compliance",
+              "devops",
+              "gcp",
+              "hacktoberfest",
+              "infrastructure-as-code",
+              "kubernetes",
+              "scans",
+              "static-analysis",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -102,12 +186,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extensible auto-tagger for your IaC files. The ultimate way to link entities in the cloud back to the codified resource which created it.",
+            "homepage": "https://www.yor.io",
             "id": 335331498,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-09T04:59:09Z",
+            "open_issues": 8,
             "owner": "bridgecrewio",
             "repo": "yor",
-            "stars": 933
+            "stars": 933,
+            "topics": [
+              "cloud",
+              "cloudformation",
+              "cloudsecurity",
+              "devops",
+              "hacktoberfest",
+              "iac",
+              "infrastructure-as-code",
+              "serverless",
+              "tagging",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         }
@@ -124,12 +224,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+            "homepage": "https://solanalabs.com",
             "id": 121470383,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-22T19:41:54Z",
+            "open_issues": 265,
             "owner": "solana-labs",
             "repo": "solana",
-            "stars": 14940
+            "stars": 14941,
+            "topics": [
+              "bitcoin",
+              "blockchain",
+              "ledger",
+              "performance-blockchain",
+              "rust",
+              "rustc",
+              "solana"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -140,12 +253,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framework for building performant, customizable blockchains with native interoperability",
+            "homepage": "https://cosmos.network/",
             "id": 51193526,
             "language": "Go",
-            "last_commit": "2026-08-28T16:34:46Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T17:08:30Z",
+            "open_issues": 229,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7051
+            "stars": 7051,
+            "topics": [
+              "blockchain",
+              "cometbft",
+              "cosmos-sdk",
+              "cryptocurrency",
+              "go",
+              "golang",
+              "tendermint"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -156,12 +282,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Documentation for the Binance Spot APIs and Streams ",
+            "homepage": null,
             "id": 316913418,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-27T02:50:51Z",
+            "open_issues": 0,
             "owner": "binance",
             "repo": "binance-spot-api-docs",
-            "stars": 4856
+            "stars": 4856,
+            "topics": [
+              "binance-api",
+              "documentation",
+              "fix-api",
+              "rest-api",
+              "sbe",
+              "spot",
+              "testnet",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         }
@@ -178,12 +318,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Define and run multi-container applications with Docker",
+            "homepage": "https://docs.docker.com/compose/",
             "id": 15045751,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T09:09:06Z",
+            "open_issues": 108,
             "owner": "docker",
             "repo": "compose",
-            "stars": 38070
+            "stars": 38072,
+            "topics": [
+              "docker",
+              "docker-compose",
+              "go",
+              "golang",
+              "orchestration"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -194,12 +345,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+            "homepage": "https://github.com/moby/moby/issues/34227",
             "id": 92969352,
             "language": "Go",
-            "last_commit": "2026-08-28T00:24:33Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:55:37Z",
+            "open_issues": 912,
             "owner": "moby",
             "repo": "buildkit",
-            "stars": 10214
+            "stars": 10214,
+            "topics": [
+              "builder",
+              "buildkit",
+              "cloud-native",
+              "containers",
+              "docker",
+              "dockerfile",
+              "go",
+              "golang",
+              "oci",
+              "oci-image"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -210,12 +377,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Docker CLI",
+            "homepage": null,
             "id": 88013053,
             "language": "Go",
-            "last_commit": "2026-08-28T10:41:49Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:48:23Z",
+            "open_issues": 874,
             "owner": "docker",
             "repo": "cli",
-            "stars": 6032
+            "stars": 6034,
+            "topics": [
+              "cli",
+              "docker"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -226,12 +401,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source repo for Docker's Documentation",
+            "homepage": "https://docs.docker.com",
             "id": 65772720,
             "language": "Markdown",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:48:43Z",
+            "open_issues": 256,
             "owner": "docker",
             "repo": "docs",
-            "stars": 4639
+            "stars": 4641,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         }
@@ -248,12 +428,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+            "homepage": "http://rocksdb.org",
             "id": 6934395,
             "language": "C++",
-            "last_commit": "2026-08-28T16:04:37Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-28T17:57:16Z",
+            "open_issues": 1630,
             "owner": "facebook",
             "repo": "rocksdb",
-            "stars": 32023
+            "stars": 32025,
+            "topics": [
+              "database",
+              "storage-engine"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -264,12 +452,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A JavaScript Internationalization Framework",
+            "homepage": "https://facebook.github.io/fbt",
             "id": 143188696,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-11-14T00:04:17Z",
+            "open_issues": 57,
             "owner": "facebook",
             "repo": "fbt",
-            "stars": 3882
+            "stars": 3882,
+            "topics": [
+              "framework",
+              "i18n",
+              "internationalization",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         }
@@ -286,12 +484,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenTitan: Open source silicon root of trust",
+            "homepage": "https://www.opentitan.org",
             "id": 204516692,
             "language": "SystemVerilog",
-            "last_commit": "2026-08-28T15:41:54Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T19:58:49Z",
+            "open_issues": 2017,
             "owner": "lowRISC",
             "repo": "opentitan",
-            "stars": 3613
+            "stars": 3614,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -302,12 +505,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source for the istio.io site",
+            "homepage": "https://istio.io/",
             "id": 82706976,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T09:02:19Z",
+            "open_issues": 348,
             "owner": "istio",
             "repo": "istio.io",
-            "stars": 820
+            "stars": 820,
+            "topics": [
+              "microservices-architecture",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -318,12 +529,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The AMP Project Website.",
+            "homepage": "https://amp.dev",
             "id": 46524576,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T22:23:16Z",
+            "open_issues": 325,
             "owner": "ampproject",
             "repo": "amp.dev",
-            "stars": 600
+            "stars": 600,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         }
@@ -340,12 +556,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Qiskit Textbook (beta)",
+            "homepage": "https://learn.qiskit.org",
             "id": 321695699,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-08T15:50:07Z",
+            "open_issues": 0,
             "owner": "Qiskit",
             "repo": "platypus",
-            "stars": 191
+            "stars": 191,
+            "topics": [
+              "learn-to-code",
+              "qiskit",
+              "qiskit-textbook",
+              "quantum-computing",
+              "quantum-mechanics",
+              "quantum-programming"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -356,12 +584,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node-RED Site",
+            "homepage": "http://nodered.org",
             "id": 12573714,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-01T06:58:37Z",
+            "open_issues": 51,
             "owner": "node-red",
             "repo": "node-red.github.io",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "hacktoberfest",
+              "node-red"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         }
@@ -378,12 +614,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of valuable resources by developers -- for developers -- to share practical learnings, development challenges, and open-source initiatives in dev, QA, Infra, and implementation.",
+            "homepage": "https://www.loginradius.com/blog/",
             "id": 274141515,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-02T07:24:08Z",
+            "open_issues": 64,
             "owner": "LoginRadius",
             "repo": "engineering-portal",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "blog",
+              "hacktoberfest",
+              "knowledge",
+              "technology"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -394,12 +640,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Egnature is an email signature generator tool, which is an open source and free to use.",
+            "homepage": null,
             "id": 297657545,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-07T01:26:34Z",
+            "open_issues": 5,
             "owner": "LoginRadius",
             "repo": "egnature",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "contributions-needed",
+              "contributions-welcome",
+              "email",
+              "email-signature",
+              "hacktoberfest",
+              "html",
+              "javascript",
+              "javascrit",
+              "open-source",
+              "opensource",
+              "react",
+              "signature"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -410,12 +674,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High Level API Implementation of SAML 2.0 (Currently Supported Identity Provider Implementation) Single Sign On",
+            "homepage": null,
             "id": 296618552,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-01-21T16:26:39Z",
+            "open_issues": 8,
             "owner": "LoginRadius",
             "repo": "go-saml",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "federation",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "saml",
+              "sso"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -426,12 +703,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".NET standard library to secure the passwords using multiple hashing algorithms.",
+            "homepage": null,
             "id": 297355853,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-03-26T09:19:31Z",
+            "open_issues": 10,
             "owner": "LoginRadius",
             "repo": "csharp-password-hash",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -442,12 +724,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A power shell script to detect non-whitelisted installed software on windows machines.",
+            "homepage": null,
             "id": 297346168,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2021-11-02T15:49:40Z",
+            "open_issues": 7,
             "owner": "LoginRadius",
             "repo": "ps-softlist",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "hacktoberfest",
+              "powershell-script",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         }
@@ -464,12 +755,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source documentation of Microsoft Azure",
+            "homepage": "https://learn.microsoft.com/azure",
             "id": 72685026,
             "language": "Markdown",
-            "last_commit": "2026-08-28T16:23:53Z",
+            "license": "CC-BY-4.0",
+            "last_commit": "2026-08-28T22:12:58Z",
+            "open_issues": 1766,
             "owner": "MicrosoftDocs",
             "repo": "azure-docs",
-            "stars": 10963
+            "stars": 10965,
+            "topics": [
+              "skilling"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -480,12 +778,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo is used to host the source for the Microsoft 365 documentation on https://docs.microsoft.com.",
+            "homepage": null,
             "id": 119072000,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2026-04-30T23:18:56Z",
+            "open_issues": 13,
             "owner": "MicrosoftDocs",
             "repo": "microsoft-365-docs",
-            "stars": 1174
+            "stars": 1174,
+            "topics": [
+              "core",
+              "lmcdocs",
+              "mvldocs",
+              "non-build",
+              "officedocs"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -496,12 +805,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Accessibility Insights for Web",
+            "homepage": "https://accessibilityinsights.io",
             "id": 160750261,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T10:24:52Z",
+            "open_issues": 67,
             "owner": "microsoft",
             "repo": "accessibility-insights-web",
-            "stars": 928
+            "stars": 928,
+            "topics": [
+              "accessibility",
+              "accessibility-insights",
+              "chromeextension",
+              "hacktoberfest",
+              "reactjs",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -512,12 +833,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Accessibility Insights for Windows",
+            "homepage": "https://accessibilityinsights.io",
             "id": 160750843,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T02:20:56Z",
+            "open_issues": 23,
             "owner": "microsoft",
             "repo": "accessibility-insights-windows",
-            "stars": 543
+            "stars": 543,
+            "topics": [
+              "accessibility",
+              "accessibility-insights",
+              "hacktoberfest",
+              "microsoft",
+              "tool",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -528,12 +861,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Documentation published at http://learn.microsoft.com/windows/terminal",
+            "homepage": "http://learn.microsoft.com/windows/terminal",
             "id": 242250002,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-02T07:40:24Z",
+            "open_issues": 47,
             "owner": "MicrosoftDocs",
             "repo": "terminal",
-            "stars": 524
+            "stars": 524,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -544,12 +882,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for Azure PowerShell cmdlet documentation published on learn.microsoft.com",
+            "homepage": "https://learn.microsoft.com/powershell/azure/",
             "id": 65505914,
             "language": "Dockerfile",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-27T18:40:46Z",
+            "open_issues": 2,
             "owner": "MicrosoftDocs",
             "repo": "azure-docs-powershell",
-            "stars": 268
+            "stars": 268,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         }
@@ -566,12 +911,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Conductor is a microservices orchestration engine.",
+            "homepage": null,
             "id": 75882172,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-22T23:40:04Z",
+            "open_issues": 164,
             "owner": "Netflix",
             "repo": "conductor",
-            "stars": 12754
+            "stars": 12754,
+            "topics": [
+              "distributed-systems",
+              "grpc",
+              "java",
+              "javascript",
+              "microservice-orchestration",
+              "orchestration-engine",
+              "orchestrator",
+              "reactjs",
+              "spring-boot",
+              "workflow-automation",
+              "workflow-engine",
+              "workflow-management",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -582,12 +946,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "metaflow-docs.vercel.app",
             "id": 246936086,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-27T22:41:30Z",
+            "open_issues": 42,
             "owner": "Netflix",
             "repo": "metaflow-docs",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         }
@@ -604,12 +973,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WildFly Application Server",
+            "homepage": "https://wildfly.org",
             "id": 764708,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T18:32:44Z",
+            "open_issues": 105,
             "owner": "wildfly",
             "repo": "wildfly",
-            "stars": 3188
+            "stars": 3188,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -620,12 +996,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project Quay documentation",
+            "homepage": null,
             "id": 215333022,
             "language": "CSS",
+            "license": null,
             "last_commit": "2026-08-26T19:23:40Z",
+            "open_issues": 32,
             "owner": "quay",
             "repo": "quay-docs",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         }
@@ -642,12 +1023,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning",
+            "homepage": "https://transmogrif.ai",
             "id": 109289451,
             "language": "Scala",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-02T18:03:07Z",
+            "open_issues": 46,
             "owner": "salesforce",
             "repo": "TransmogrifAI",
-            "stars": 2277
+            "stars": 2277,
+            "topics": [
+              "ai",
+              "automated-machine-learning",
+              "automl",
+              "dsl",
+              "einstein",
+              "estimators",
+              "feature-engineering",
+              "features",
+              "machine-learning",
+              "ml",
+              "pipelines",
+              "salesforce",
+              "scala",
+              "spark",
+              "sparkml",
+              "structured-data",
+              "transformations",
+              "transformers",
+              "transmogrification",
+              "transmogrify"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         }
@@ -664,12 +1071,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declarative UITableViewDataSource implementation",
+            "homepage": null,
             "id": 98907583,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-08-07T14:57:28Z",
+            "open_issues": 12,
             "owner": "Shopify",
             "repo": "FunctionalTableData",
-            "stars": 370
+            "stars": 370,
+            "topics": [
+              "declarative",
+              "functional-programming",
+              "ios",
+              "swift",
+              "uicollectionview",
+              "uitableview",
+              "user-interface"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         }
@@ -686,12 +1106,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An open cloud-native web console improving on the work day of SAP Applications administrators.",
+            "homepage": "https://www.trento-project.io",
             "id": 335292780,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-05-30T10:34:54Z",
+            "open_issues": 46,
             "owner": "trento-project",
             "repo": "trento",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "hacktoberfest",
+              "high-availability",
+              "operations",
+              "s4hana",
+              "sap",
+              "sap-applications",
+              "sap-hana",
+              "sles4sap",
+              "web-application"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         }
@@ -708,12 +1143,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A utility-first CSS framework for rapid UI development.",
+            "homepage": "https://tailwindcss.com/",
             "id": 106017343,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-14T19:43:34Z",
+            "open_issues": 61,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97368
+            "stars": 97375,
+            "topics": [
+              "css",
+              "css-framework",
+              "functional-css",
+              "postcss",
+              "responsive",
+              "tailwindcss",
+              "utility-classes"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         }
@@ -730,12 +1178,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Repository of Twilio SendGrid's product documentation. ",
+            "homepage": "https://sendgrid.com/docs",
             "id": 4679626,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-08-26T19:12:59Z",
+            "open_issues": 0,
             "owner": "sendgrid",
             "repo": "docs",
-            "stars": 235
+            "stars": 235,
+            "topics": [
+              "algolia",
+              "documentation",
+              "gatsby",
+              "hacktoberfest",
+              "markdown",
+              "react",
+              "sendgrid",
+              "sendgrid-documentation",
+              "static-site",
+              "travis-ci",
+              "uiux"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         }
@@ -752,12 +1217,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Pants Build System",
+            "homepage": "https://www.pantsbuild.org",
             "id": 7209075,
             "language": "Python",
-            "last_commit": "2026-08-27T20:25:53Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T18:13:30Z",
+            "open_issues": 1093,
             "owner": "pantsbuild",
             "repo": "pants",
-            "stars": 3819
+            "stars": 3819,
+            "topics": [
+              "aws-lambda",
+              "build",
+              "build-system",
+              "build-tool",
+              "build-tools",
+              "docker",
+              "golang",
+              "java",
+              "javascript",
+              "kotlin",
+              "monorepo",
+              "monorepos",
+              "pants",
+              "pantsbuild",
+              "pex",
+              "protobuf",
+              "python",
+              "rust",
+              "scala",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         }
@@ -774,12 +1265,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.",
+            "homepage": "http://kepler.gl",
             "id": 123345344,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T16:39:34Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:35:11Z",
+            "open_issues": 458,
             "owner": "keplergl",
             "repo": "kepler.gl",
-            "stars": 11989
+            "stars": 11989,
+            "topics": [
+              "data-visualization",
+              "geospatial",
+              "kepler",
+              "mapbox",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -790,12 +1292,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Documentation/website for the Jaeger Distributed Tracing project.",
+            "homepage": "https://jaegertracing.io/",
             "id": 111404679,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-12T19:43:01Z",
+            "open_issues": 31,
             "owner": "jaegertracing",
             "repo": "documentation",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "hacktoberfest",
+              "hugo",
+              "jaeger"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         },
@@ -806,12 +1317,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern framework for fast, powerful React apps",
+            "homepage": "https://fusionjs.com",
             "id": 121547250,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:17:49Z",
+            "open_issues": 43,
             "owner": "fusionjs",
             "repo": "fusionjs.github.io",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "fusionjs",
+              "gatsby",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:43:25.637Z"
         }
@@ -820,15 +1340,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:43:25.637Z",
+    "last_updated": "2026-08-29T04:55:54.903Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📚 A curated list of awesome open source documentation for people whole love contributing to docs (Documentarians).",
+      "homepage": "https://awesome-oss-docs.vercel.app",
       "id": 389038869,
       "language": "JavaScript",
+      "license": "CC0-1.0",
       "last_commit": "2023-11-08T05:35:07Z",
+      "open_issues": 2,
       "owner": "saintmalik",
       "repo": "awesome-oss-docs",
-      "stars": 125
+      "stars": 125,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "documentation",
+        "hacktoberfest",
+        "hacktoberfest2024-accepted",
+        "open-source",
+        "opensource",
+        "oss"
+      ]
     },
     "original_repository_sha": "1347d8f56fb467642a731127556d103e4f30983b",
     "enhanced_repository": "enhansome/enhansome-oss-docs",
