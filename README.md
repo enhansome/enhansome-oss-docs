@@ -52,7 +52,7 @@
 
 ## Amazon Open Source Documentation
 
-* [Firecracker Docs](https://github.com/firecracker-microvm/firecracker/blob/main/docs/getting-started.md) ⭐ 36,351 | 🐛 103 | 🌐 Rust | 📅 2026-08-28 - Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models. `Community Owned Docs`
+* [Firecracker Docs](https://github.com/firecracker-microvm/firecracker/blob/main/docs/getting-started.md) ⭐ 36,355 | 🐛 104 | 🌐 Rust | 📅 2026-08-28 - Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models. `Community Owned Docs`
 * [OpenSearch Docs](https://opensearch.org/docs) - The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins. [Edit on GitHub](https://github.com/opensearch-project/documentation-website) ⭐ 112 | 🐛 90 | 🌐 SCSS | 📅 2026-08-26. `Community Owned Docs`
 * [Amplify JS Docs](https://docs.amplify.aws/lib/q/platform/js) - A declarative JavaScript library for application development using cloud services.`Company Owned Docs`
 * [Amplify iOS Docs](https://docs.amplify.aws/start/q/integration/ios) - A declarative library for application development using cloud services. `Company Owned Docs`
@@ -75,9 +75,9 @@
 
 ## Apache Software Foundation Open Source Documentation
 
-* [Apache SkyWalking](https://skywalking.apache.org/) - Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures. [Edit on GitHub](https://github.com/apache/skywalking/tree/master/docs) ⭐ 24,932 | 🐛 40 | 🌐 Java | 📅 2026-08-26 `Community Owned Docs`
+* [Apache SkyWalking](https://skywalking.apache.org/) - Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures. [Edit on GitHub](https://github.com/apache/skywalking/tree/master/docs) ⭐ 24,933 | 🐛 40 | 🌐 Java | 📅 2026-08-26 `Community Owned Docs`
 
-* [Apache APISIX](http://apisix.apache.org/) - Apache APISIX is a dynamic, real-time, high-performance API gateway, and it provides rich traffic management features such as load balancing, dynamic upstream, canary release, circuit breaking, authentication, observability, and more. [Edit on GitHub](https://github.com/apache/apisix/tree/master/docs) ⭐ 17,048 | 🐛 248 | 🌐 Lua | 📅 2026-08-28 `Community Owned Docs`
+* [Apache APISIX](http://apisix.apache.org/) - Apache APISIX is a dynamic, real-time, high-performance API gateway, and it provides rich traffic management features such as load balancing, dynamic upstream, canary release, circuit breaking, authentication, observability, and more. [Edit on GitHub](https://github.com/apache/apisix/tree/master/docs) ⭐ 17,050 | 🐛 248 | 🌐 Lua | 📅 2026-08-28 `Community Owned Docs`
 
 * [Apache Ant](https://ant.apache.org/manual/index.html) - Apache Ant is a Java-based build tool. In theory, it is kind of like make, without make's wrinkles. `Community Owned Docs`
 
@@ -89,7 +89,7 @@
 
 ## Apple Open Source Documentation
 
-* [Swift](https://swift.org/documentation/) - A powerful and intuitive programming language designed to give developers the freedom and capabilities they need to create a new generation of cutting-edge apps. [Edit on GitHub](https://github.com/apple/swift/tree/main/docs) ⭐ 70,308 | 🐛 9,251 | 🌐 Swift | 📅 2026-08-29. `Community Owned Docs`
+* [Swift](https://swift.org/documentation/) - A powerful and intuitive programming language designed to give developers the freedom and capabilities they need to create a new generation of cutting-edge apps. [Edit on GitHub](https://github.com/apple/swift/tree/main/docs) ⭐ 70,309 | 🐛 9,249 | 🌐 Swift | 📅 2026-08-29. `Community Owned Docs`
 * [WebKit](https://webkit.org/) - An open source rendering engine introduced by Apple — powers Safari on macOS and iOS. `Community Owned Docs`
 
 <a name="bridgecrew-open-source-documentation"/>
@@ -129,9 +129,9 @@
 ## Docker Open Source Documentation
 
 * [Compose](https://docs.docker.com/compose/) - Define and run multi-container applications with Docker.[Edit on GitHub](https://github.com/docker/compose) ⭐ 38,072 | 🐛 108 | 🌐 Go | 📅 2026-08-28 `Company Owned Docs`
-* [Build Kit](https://docs.docker.com/develop/develop-images/build_enhancements/) - A set of tooling for building and packaging software using containers. [Edit on GitHub](https://github.com/moby/buildkit) ⭐ 10,214 | 🐛 912 | 🌐 Go | 📅 2026-08-28 `Company Owned Docs`
-* [Docker cli](https://docs.docker.com/engine/reference/commandline/cli/) - The cli used in the Docker CE and Docker EE products. [Edit on GitHub](https://github.com/docker/cli) ⭐ 6,034 | 🐛 874 | 🌐 Go | 📅 2026-08-28 `Company Owned Docs`
-* [Docker Docs](https://docs.docker.com/) - Docker is an open platform for developing, shipping, and running applications. [Edit on GitHub](https://github.com/docker/docker.github.io) ⭐ 4,641 | 🐛 256 | 🌐 Markdown | 📅 2026-08-28 `Company Owned Docs`
+* [Build Kit](https://docs.docker.com/develop/develop-images/build_enhancements/) - A set of tooling for building and packaging software using containers. [Edit on GitHub](https://github.com/moby/buildkit) ⭐ 10,215 | 🐛 912 | 🌐 Go | 📅 2026-08-28 `Company Owned Docs`
+* [Docker cli](https://docs.docker.com/engine/reference/commandline/cli/) - The cli used in the Docker CE and Docker EE products. [Edit on GitHub](https://github.com/docker/cli) ⭐ 6,035 | 🐛 874 | 🌐 Go | 📅 2026-08-28 `Company Owned Docs`
+* [Docker Docs](https://docs.docker.com/) - Docker is an open platform for developing, shipping, and running applications. [Edit on GitHub](https://github.com/docker/docker.github.io) ⭐ 4,642 | 🐛 256 | 🌐 Markdown | 📅 2026-08-28 `Company Owned Docs`
 * [Docker registry](https://docs.docker.com/registry/) - store your docker images. `Company Owned Docs`
 
 <a name="dropbox-open-source-documentation"/>
@@ -153,7 +153,7 @@
 
 ## Facebook Open Source Documentation
 
-* [RocksDB Docs](https://github.com/facebook/rocksdb/wiki) ⭐ 32,025 | 🐛 1,630 | 🌐 C++ | 📅 2026-08-28 - RocksDB is a storage engine with key/value interface, where keys and values are arbitrary byte streams. It is a C++ library. It was developed at Facebook based on LevelDB and provides backwards-compatible support for LevelDB APIs. `Community Owned Docs`
+* [RocksDB Docs](https://github.com/facebook/rocksdb/wiki) ⭐ 32,026 | 🐛 1,630 | 🌐 C++ | 📅 2026-08-28 - RocksDB is a storage engine with key/value interface, where keys and values are arbitrary byte streams. It is a C++ library. It was developed at Facebook based on LevelDB and provides backwards-compatible support for LevelDB APIs. `Community Owned Docs`
 * [FBT Docs](https://facebook.github.io/fbt/docs/getting_started_on_web) - FBT is an internationalization framework for JavaScript designed to be not just powerful and flexible, but also simple and intuitive. [Edit on GitHub](https://github.com/facebook/fbt/tree/main/docs) ⚠️ Archived `Community Owned Docs`
 * [React Native Docs](https://reactnative.dev/docs/getting-started) - A framework for building native apps with React. `Community Owned Docs`
 * [React Docs](https://reactjs.org/docs/getting-started.html) - A JavaScript library for building user interfaces. 'Company Owned Docs'
@@ -268,10 +268,10 @@
 
 ## Microsoft Open Source Documentation
 
-* [Azure Docs](https://docs.microsoft.com/en-us/azure/) - A cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers. [Edit on GitHub](https://github.com/MicrosoftDocs/azure-docs) ⭐ 10,965 | 🐛 1,766 | 🌐 Markdown | 📅 2026-08-28 `Company Owned Documentation`
+* [Azure Docs](https://docs.microsoft.com/en-us/azure/) - A cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers. [Edit on GitHub](https://github.com/MicrosoftDocs/azure-docs) ⭐ 10,965 | 🐛 1,766 | 🌐 Markdown | 📅 2026-08-29 `Company Owned Documentation`
 * [Microsoft 365 Docs](https://docs.microsoft.com/) - This repo is used to host the source for the Microsoft 365 documentation on. [Edit on GitHub](https://github.com/MicrosoftDocs/microsoft-365-docs) ⭐ 1,174 | 🐛 13 | 📅 2026-04-30 `Company Owned Documentation`
 * [Accessibility Insights for Web Docs](https://accessibilityinsights.io/docs/en/web/overview/) - Accessibility Insights for Web. [Edit on GitHub](https://github.com/microsoft/accessibility-insights-web/tree/main/docs) ⭐ 928 | 🐛 67 | 🌐 TypeScript | 📅 2026-08-24 `Company Owned Documentation`
-* [Accessibility Insights for Windows. Docs](https://accessibilityinsights.io/docs/en/windows/overview/) - Accessibility Insights for Windows. [Edit on GitHub](https://github.com/microsoft/accessibility-insights-windows/tree/main/docs) ⭐ 543 | 🐛 23 | 🌐 C# | 📅 2026-08-11 `Company Owned Documentation`
+* [Accessibility Insights for Windows. Docs](https://accessibilityinsights.io/docs/en/windows/overview/) - Accessibility Insights for Windows. [Edit on GitHub](https://github.com/microsoft/accessibility-insights-windows/tree/main/docs) ⭐ 544 | 🐛 23 | 🌐 C# | 📅 2026-08-11 `Company Owned Documentation`
 * [Microsoft Terminal Docs](https://docs.microsoft.com/en-us/windows/terminal/) - The new Windows Terminal and the original Windows console host, all in the same place!. [Edit on GitHub](https://github.com/MicrosoftDocs/terminal) ⭐ 524 | 🐛 47 | 📅 2026-08-02 `Company Owned Documentation`
 * [Azure PowerShell Docs](https://docs.microsoft.com/en-us/powershell/azure/) - Repository used to store Azure PowerShell cmdlet content published on docs.ms.com reference site. [Edit on GitHub](https://github.com/MicrosoftDocs/azure-docs-powershell) ⭐ 268 | 🐛 2 | 🌐 Dockerfile | 📅 2026-08-27 `Company Owned Documentation`
 * [TypeScript Docs](https://www.typescriptlang.org/docs/) - TypeScript is an open-source and cross-platform language that builds on JavaScript by adding static types and type-checking. `Company Owned Documentation`
@@ -386,7 +386,7 @@
 
 ## Tailwind Open Source Documentation
 
-* [Tailwind Docs](https://v2.tailwindcss.com/docs/installation) - Tailwind is a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup. [GitHub Docs Location](https://github.com/tailwindlabs/tailwindcss) ⭐ 97,375 | 🐛 61 | 🌐 TypeScript | 📅 2026-08-14. `Community Owned Docs`
+* [Tailwind Docs](https://v2.tailwindcss.com/docs/installation) - Tailwind is a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup. [GitHub Docs Location](https://github.com/tailwindlabs/tailwindcss) ⭐ 97,381 | 🐛 62 | 🌐 TypeScript | 📅 2026-08-14. `Community Owned Docs`
 
 <a name="the-guild-open-source-documentation"/>
 
@@ -415,8 +415,8 @@
 
 ## Uber Open Source Documentation
 
-* [Kepler.gl Docs](https://docs.kepler.gl) - kepler.gl is a data-agnostic, high-perf. web application for visual exploration of large-scale geolocation data sets, [Edit Keplergl Docs on GitHub](https://github.com/keplergl/kepler.gl/tree/master/docs) ⭐ 11,989 | 🐛 458 | 🌐 TypeScript | 📅 2026-08-29 `Community Owned Docs`
-* [Jaeger Tracing Docs](https://www.jaegertracing.io/docs/) - Base Web is a foundation for initiating, evolving, and unifying web products, [Edit Jaeger Tracing Docs on GitHub](https://github.com/jaegertracing/documentation) ⭐ 83 | 🐛 31 | 🌐 TypeScript | 📅 2026-08-12. `Community Owned Docs`
+* [Kepler.gl Docs](https://docs.kepler.gl) - kepler.gl is a data-agnostic, high-perf. web application for visual exploration of large-scale geolocation data sets, [Edit Keplergl Docs on GitHub](https://github.com/keplergl/kepler.gl/tree/master/docs) ⭐ 11,989 | 🐛 459 | 🌐 TypeScript | 📅 2026-08-29 `Community Owned Docs`
+* [Jaeger Tracing Docs](https://www.jaegertracing.io/docs/) - Base Web is a foundation for initiating, evolving, and unifying web products, [Edit Jaeger Tracing Docs on GitHub](https://github.com/jaegertracing/documentation) ⭐ 83 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-12. `Community Owned Docs`
 * [FusionJS Docs](https://fusionjs.com/docs/overview) - Fusion.js is a modern framework for fast, powerful React apps, which provides a rich set of tools, [Edit FusionJS Docs on GitHub](https://github.com/fusionjs/fusionjs.github.io/tree/master/documentation) ⭐ 52 | 🐛 43 | 🌐 JavaScript | 📅 2026-08-26 `Community Owned Docs`
 * [Base Web - React UI framework Docs](https://baseweb.design/getting-started/setup) - Base Web is a foundation for initiating, evolving, and unifying web products. `Company Owned Docs`
 * [Codence Work Flow Docs](https://cadenceworkflow.io/docs/get-started/#what-s-next) - Orchestration engine used to develop applications which perform multiple actions over long periods of time. `Community Owned Docs`
