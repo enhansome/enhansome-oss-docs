@@ -46,13 +46,13 @@
 
 ## Airbnb Open Source Documentation
 
-* [Visx Docs](https://airbnb.io/visx/docs) - A collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of React for updating the DOM. [Edit on GitHub](https://github.com/airbnb/visx/tree/master/packages) ⭐ 21,075 | 🐛 154 | 🌐 TypeScript | 📅 2026-06-22. `Company Owned Docs`
+* [Visx Docs](https://airbnb.io/visx/docs) - A collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of React for updating the DOM. [Edit on GitHub](https://github.com/airbnb/visx/tree/master/packages) ⭐ 21,075 | 🐛 155 | 🌐 TypeScript | 📅 2026-06-22. `Company Owned Docs`
 
 <a name="amazon-open-source-documentation"/>
 
 ## Amazon Open Source Documentation
 
-* [Firecracker Docs](https://github.com/firecracker-microvm/firecracker/blob/main/docs/getting-started.md) ⭐ 37,120 | 🐛 94 | 🌐 Rust | 📅 2026-10-02 - Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models. `Community Owned Docs`
+* [Firecracker Docs](https://github.com/firecracker-microvm/firecracker/blob/main/docs/getting-started.md) ⭐ 37,126 | 🐛 94 | 🌐 Rust | 📅 2026-10-02 - Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models. `Community Owned Docs`
 * [OpenSearch Docs](https://opensearch.org/docs) - The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins. [Edit on GitHub](https://github.com/opensearch-project/documentation-website) ⭐ 113 | 🐛 73 | 🌐 SCSS | 📅 2026-10-02. `Community Owned Docs`
 * [Amplify JS Docs](https://docs.amplify.aws/lib/q/platform/js) - A declarative JavaScript library for application development using cloud services.`Company Owned Docs`
 * [Amplify iOS Docs](https://docs.amplify.aws/start/q/integration/ios) - A declarative library for application development using cloud services. `Company Owned Docs`
@@ -89,14 +89,14 @@
 
 ## Apple Open Source Documentation
 
-* [Swift](https://swift.org/documentation/) - A powerful and intuitive programming language designed to give developers the freedom and capabilities they need to create a new generation of cutting-edge apps. [Edit on GitHub](https://github.com/apple/swift/tree/main/docs) ⭐ 70,450 | 🐛 9,391 | 🌐 Swift | 📅 2026-10-03. `Community Owned Docs`
+* [Swift](https://swift.org/documentation/) - A powerful and intuitive programming language designed to give developers the freedom and capabilities they need to create a new generation of cutting-edge apps. [Edit on GitHub](https://github.com/apple/swift/tree/main/docs) ⭐ 70,450 | 🐛 9,393 | 🌐 Swift | 📅 2026-10-03. `Community Owned Docs`
 * [WebKit](https://webkit.org/) - An open source rendering engine introduced by Apple — powers Safari on macOS and iOS. `Community Owned Docs`
 
 <a name="bridgecrew-open-source-documentation"/>
 
 ## Bridgecrew Open Source Documentation
 
-* [Checkov](https://www.checkov.io/1.Welcome/Quick%20Start.html) - Checkov is a static code analysis tool for infrastructure-as-code. [Edit on GitHub](https://github.com/bridgecrewio/checkov/tree/master/docs) ⭐ 9,052 | 🐛 183 | 🌐 Python | 📅 2026-10-01. `Community Owned Docs`
+* [Checkov](https://www.checkov.io/1.Welcome/Quick%20Start.html) - Checkov is a static code analysis tool for infrastructure-as-code. [Edit on GitHub](https://github.com/bridgecrewio/checkov/tree/master/docs) ⭐ 9,053 | 🐛 180 | 🌐 Python | 📅 2026-10-01. `Community Owned Docs`
 * [Yor](https://yor.io/1.Welcome/welcome.html) - Yor is an open-source tool that helps add informative and consistent tags across infrastructure-as-code frameworks such as Terraform, CloudFormation, and Serverless. [Edit on GitHub](https://github.com/bridgecrewio/yor/tree/main/docs) ⭐ 933 | 🐛 9 | 🌐 Go | 📅 2026-09-28. `Community Owned Docs`
 * [AirIAM](https://airiam.io/documentation) - AirIAM is a tool to identify and automate Least privilege IAM principles in AWS using Terraform. `Community Owned Docs`
 
@@ -128,10 +128,10 @@
 
 ## Docker Open Source Documentation
 
-* [Compose](https://docs.docker.com/compose/) - Define and run multi-container applications with Docker.[Edit on GitHub](https://github.com/docker/compose) ⭐ 38,279 | 🐛 88 | 🌐 Go | 📅 2026-10-02 `Company Owned Docs`
+* [Compose](https://docs.docker.com/compose/) - Define and run multi-container applications with Docker.[Edit on GitHub](https://github.com/docker/compose) ⭐ 38,280 | 🐛 88 | 🌐 Go | 📅 2026-10-02 `Company Owned Docs`
 * [Build Kit](https://docs.docker.com/develop/develop-images/build_enhancements/) - A set of tooling for building and packaging software using containers. [Edit on GitHub](https://github.com/moby/buildkit) ⭐ 10,301 | 🐛 828 | 🌐 Go | 📅 2026-10-03 `Company Owned Docs`
-* [Docker cli](https://docs.docker.com/engine/reference/commandline/cli/) - The cli used in the Docker CE and Docker EE products. [Edit on GitHub](https://github.com/docker/cli) ⭐ 6,080 | 🐛 899 | 🌐 Go | 📅 2026-10-02 `Company Owned Docs`
-* [Docker Docs](https://docs.docker.com/) - Docker is an open platform for developing, shipping, and running applications. [Edit on GitHub](https://github.com/docker/docker.github.io) ⭐ 4,662 | 🐛 269 | 🌐 Markdown | 📅 2026-10-02 `Company Owned Docs`
+* [Docker cli](https://docs.docker.com/engine/reference/commandline/cli/) - The cli used in the Docker CE and Docker EE products. [Edit on GitHub](https://github.com/docker/cli) ⭐ 6,080 | 🐛 898 | 🌐 Go | 📅 2026-10-03 `Company Owned Docs`
+* [Docker Docs](https://docs.docker.com/) - Docker is an open platform for developing, shipping, and running applications. [Edit on GitHub](https://github.com/docker/docker.github.io) ⭐ 4,662 | 🐛 271 | 🌐 Markdown | 📅 2026-10-02 `Company Owned Docs`
 * [Docker registry](https://docs.docker.com/registry/) - store your docker images. `Company Owned Docs`
 
 <a name="dropbox-open-source-documentation"/>
@@ -177,8 +177,8 @@
 
 ## Google Open Source Documentation
 
-* [OpenTitan Docs](https://docs.opentitan.org/) - OpenTitan is the first open source project building a transparent, high-quality reference design and integration guidelines for silicon root of trust (RoT) chips. [Edit on GitHub](https://github.com/lowRISC/opentitan/tree/master/doc) ⭐ 3,673 | 🐛 2,113 | 🌐 SystemVerilog | 📅 2026-10-02 - `Community Owned Docs`
-* [Istio Docs](https://istio.io/latest/docs/) - Istio is an open platform that provides a uniform way to connect, manage, and secure microservices. [Edit on GitHub](https://github.com/istio/istio.io/tree/master/content) ⭐ 820 | 🐛 361 | 🌐 HTML | 📅 2026-10-03. - `Community Owned Docs`
+* [OpenTitan Docs](https://docs.opentitan.org/) - OpenTitan is the first open source project building a transparent, high-quality reference design and integration guidelines for silicon root of trust (RoT) chips. [Edit on GitHub](https://github.com/lowRISC/opentitan/tree/master/doc) ⭐ 3,674 | 🐛 2,113 | 🌐 SystemVerilog | 📅 2026-10-02 - `Community Owned Docs`
+* [Istio Docs](https://istio.io/latest/docs/) - Istio is an open platform that provides a uniform way to connect, manage, and secure microservices. [Edit on GitHub](https://github.com/istio/istio.io/tree/master/content) ⭐ 820 | 🐛 360 | 🌐 HTML | 📅 2026-10-03. - `Community Owned Docs`
 * [AMP Project Docs](https://amp.dev) - The AMP(Accelerated Mobile Pages) Project is an open source initiative aiming to make the web better for all. [Edit on GitHub](https://github.com/ampproject/amp.dev/tree/future/pages/content/amp-dev/documentation) ⭐ 600 | 🐛 331 | 🌐 HTML | 📅 2026-09-29. `Community Owned Docs`
 * [Adanet Docs](https://adanet.readthedocs.io/) - Fast and flexible AutoML with learning guarantees. `Community Owned Docs`
 * [Angular Docs](https://angular.io/docs) - Angular is a web application framework for mobile,desktop and web. `Community Owned Docs`
@@ -268,7 +268,7 @@
 
 ## Microsoft Open Source Documentation
 
-* [Azure Docs](https://docs.microsoft.com/en-us/azure/) - A cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers. [Edit on GitHub](https://github.com/MicrosoftDocs/azure-docs) ⭐ 10,979 | 🐛 1,795 | 🌐 Markdown | 📅 2026-10-02 `Company Owned Documentation`
+* [Azure Docs](https://docs.microsoft.com/en-us/azure/) - A cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers. [Edit on GitHub](https://github.com/MicrosoftDocs/azure-docs) ⭐ 10,979 | 🐛 1,797 | 🌐 Markdown | 📅 2026-10-03 `Company Owned Documentation`
 * [Microsoft 365 Docs](https://docs.microsoft.com/) - This repo is used to host the source for the Microsoft 365 documentation on. [Edit on GitHub](https://github.com/MicrosoftDocs/microsoft-365-docs) ⭐ 1,185 | 🐛 13 | 📅 2026-04-30 `Company Owned Documentation`
 * [Accessibility Insights for Web Docs](https://accessibilityinsights.io/docs/en/web/overview/) - Accessibility Insights for Web. [Edit on GitHub](https://github.com/microsoft/accessibility-insights-web/tree/main/docs) ⭐ 954 | 🐛 75 | 🌐 TypeScript | 📅 2026-10-01 `Company Owned Documentation`
 * [Accessibility Insights for Windows. Docs](https://accessibilityinsights.io/docs/en/windows/overview/) - Accessibility Insights for Windows. [Edit on GitHub](https://github.com/microsoft/accessibility-insights-windows/tree/main/docs) ⭐ 547 | 🐛 23 | 🌐 C# | 📅 2026-09-15 `Company Owned Documentation`
@@ -386,7 +386,7 @@
 
 ## Tailwind Open Source Documentation
 
-* [Tailwind Docs](https://v2.tailwindcss.com/docs/installation) - Tailwind is a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup. [GitHub Docs Location](https://github.com/tailwindlabs/tailwindcss) ⭐ 97,754 | 🐛 91 | 🌐 TypeScript | 📅 2026-09-25. `Community Owned Docs`
+* [Tailwind Docs](https://v2.tailwindcss.com/docs/installation) - Tailwind is a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup. [GitHub Docs Location](https://github.com/tailwindlabs/tailwindcss) ⭐ 97,756 | 🐛 91 | 🌐 TypeScript | 📅 2026-09-25. `Community Owned Docs`
 
 <a name="the-guild-open-source-documentation"/>
 
@@ -409,7 +409,7 @@
 
 ## Twitter Open Source Documentation
 
-* [Pants](https://www.pantsbuild.org/docs) - Pants is a fast, scalable, user-friendly build system for codebases of all sizes. It's currently focused on Python and Shell, with support for other languages coming soon. [Edit this on GitHub](https://github.com/pantsbuild/pants/tree/main/docs) ⭐ 3,837 | 🐛 1,090 | 🌐 Python | 📅 2026-10-02 -`Community Owned Docs`
+* [Pants](https://www.pantsbuild.org/docs) - Pants is a fast, scalable, user-friendly build system for codebases of all sizes. It's currently focused on Python and Shell, with support for other languages coming soon. [Edit this on GitHub](https://github.com/pantsbuild/pants/tree/main/docs) ⭐ 3,838 | 🐛 1,089 | 🌐 Python | 📅 2026-10-03 -`Community Owned Docs`
 
 <a name="uber-open-source-documentation"/>
 
