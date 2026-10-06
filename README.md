@@ -52,7 +52,7 @@
 
 ## Amazon Open Source Documentation
 
-* [Firecracker Docs](https://github.com/firecracker-microvm/firecracker/blob/main/docs/getting-started.md) ⭐ 37,185 | 🐛 95 | 🌐 Rust | 📅 2026-10-06 - Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models. `Community Owned Docs`
+* [Firecracker Docs](https://github.com/firecracker-microvm/firecracker/blob/main/docs/getting-started.md) ⭐ 37,186 | 🐛 95 | 🌐 Rust | 📅 2026-10-06 - Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models. `Community Owned Docs`
 * [OpenSearch Docs](https://opensearch.org/docs) - The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins. [Edit on GitHub](https://github.com/opensearch-project/documentation-website) ⭐ 113 | 🐛 77 | 🌐 SCSS | 📅 2026-10-05. `Community Owned Docs`
 * [Amplify JS Docs](https://docs.amplify.aws/lib/q/platform/js) - A declarative JavaScript library for application development using cloud services.`Company Owned Docs`
 * [Amplify iOS Docs](https://docs.amplify.aws/start/q/integration/ios) - A declarative library for application development using cloud services. `Company Owned Docs`
@@ -75,7 +75,7 @@
 
 ## Apache Software Foundation Open Source Documentation
 
-* [Apache SkyWalking](https://skywalking.apache.org/) - Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures. [Edit on GitHub](https://github.com/apache/skywalking/tree/master/docs) ⭐ 24,967 | 🐛 38 | 🌐 Java | 📅 2026-09-30 `Community Owned Docs`
+* [Apache SkyWalking](https://skywalking.apache.org/) - Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures. [Edit on GitHub](https://github.com/apache/skywalking/tree/master/docs) ⭐ 24,967 | 🐛 37 | 🌐 Java | 📅 2026-09-30 `Community Owned Docs`
 
 * [Apache APISIX](http://apisix.apache.org/) - Apache APISIX is a dynamic, real-time, high-performance API gateway, and it provides rich traffic management features such as load balancing, dynamic upstream, canary release, circuit breaking, authentication, observability, and more. [Edit on GitHub](https://github.com/apache/apisix/tree/master/docs) ⭐ 17,199 | 🐛 257 | 🌐 Lua | 📅 2026-10-04 `Community Owned Docs`
 
@@ -89,7 +89,7 @@
 
 ## Apple Open Source Documentation
 
-* [Swift](https://swift.org/documentation/) - A powerful and intuitive programming language designed to give developers the freedom and capabilities they need to create a new generation of cutting-edge apps. [Edit on GitHub](https://github.com/apple/swift/tree/main/docs) ⭐ 70,480 | 🐛 9,421 | 🌐 Swift | 📅 2026-10-06. `Community Owned Docs`
+* [Swift](https://swift.org/documentation/) - A powerful and intuitive programming language designed to give developers the freedom and capabilities they need to create a new generation of cutting-edge apps. [Edit on GitHub](https://github.com/apple/swift/tree/main/docs) ⭐ 70,480 | 🐛 9,422 | 🌐 Swift | 📅 2026-10-06. `Community Owned Docs`
 * [WebKit](https://webkit.org/) - An open source rendering engine introduced by Apple — powers Safari on macOS and iOS. `Community Owned Docs`
 
 <a name="bridgecrew-open-source-documentation"/>
@@ -386,7 +386,7 @@
 
 ## Tailwind Open Source Documentation
 
-* [Tailwind Docs](https://v2.tailwindcss.com/docs/installation) - Tailwind is a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup. [GitHub Docs Location](https://github.com/tailwindlabs/tailwindcss) ⭐ 97,773 | 🐛 95 | 🌐 TypeScript | 📅 2026-09-25. `Community Owned Docs`
+* [Tailwind Docs](https://v2.tailwindcss.com/docs/installation) - Tailwind is a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup. [GitHub Docs Location](https://github.com/tailwindlabs/tailwindcss) ⭐ 97,774 | 🐛 97 | 🌐 TypeScript | 📅 2026-09-25. `Community Owned Docs`
 
 <a name="the-guild-open-source-documentation"/>
 
